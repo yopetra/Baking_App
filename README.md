@@ -11,3 +11,7 @@ In this project I was learned:
 - to show video of the step in the recipe using Exoplayer
 - use fragments to show appropriate content on the phone and tablet
 - GSON library to easy parse Json
+
+![alt text](https://github.com/yopetra/Baking_App/blob/master/baking-app.png)
+
+![alt text](https://github.com/yopetra/Baking_App/blob/master/baking-app2.png)
